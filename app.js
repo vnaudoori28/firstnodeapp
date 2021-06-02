@@ -6,7 +6,7 @@ const app = express();
 app.get('/', (req, res) => {
   
     // Sending the response
-    res.send('Hello Ipsita!')
+    res.send('Hello Gopal.. I love you !')
      
     // Ending the response 
     res.end()
